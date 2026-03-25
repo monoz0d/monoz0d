@@ -1,11 +1,5 @@
 # 👋 Никита | Junior QA Engineer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/QA-Engineer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-API%20%26%20Backend-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Junior-success?style=for-the-badge" />
-</p>
-
 Я начинающий QA Engineer с фокусом на backend и API.
 
 Мне нравится осваивать новые инструменты и технологии, а также совершенствовать свои навыки тестирования.
