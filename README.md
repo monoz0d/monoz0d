@@ -30,6 +30,8 @@
 ---
 
 ## 📂 [Мое портфолио](https://github.com/monoz0d/QA_Pet_Projects)
+---
+## 📄 [Мое резюме](https://drive.google.com/file/d/1tfetP8L8CPZS9aINbNAWxSxKSfhIB6Nq/view?usp=sharing)
 
 ---
 
