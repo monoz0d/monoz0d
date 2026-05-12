@@ -1,24 +1,37 @@
-# 👋 Никита | Junior QA Engineer
+# 👋 Привет, я Никита | Junior QA Engineer
 
-* Привет! Я начинающий тестировщик, тестирую бэкенд и API.
+Я начинающий специалист по тестированию. Умею выстраивать процесс тестирования с нуля: от анализа требований до финального отчета. Сейчас фокусируюсь на ручном тестировании и активно изучаю Python для перехода в автоматизацию.
 
-* Работаю с требованиями, применяю различные техники тест-дизайна, оформляю тестовую документацию и, естественно, нахожу баги в системе.
-
-* Сейчас я активно набиваю руку, работая над личными проектами, и повышаю свой уровень в QA :)
+**Что я умею делать хорошо:**
+- Анализировать функциональные и нефункциональные требования
+- Применять техники тест-дизайна (эквивалентные классы, граничные значения)
+- Писать понятную тестовую документацию (тест-планы, чек-листы, тест-кейсы)
+- Локализовать и заводить качественные баг-репорты
+- Читать и писать базовый код на Python
 
 ---
 
-## 🛠️ Стек
+## 🛠️ Мой стек технологий
+
+**Тестирование API и Web:**
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/SOAPUI-6DB33F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/DevTools-0E76A8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+  **Базы данных и Окружение:**
+<p>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+  **Языки и Инструменты:**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
@@ -29,25 +42,32 @@
 
 ---
 
-## 📂 [Мое портфолио](https://github.com/monoz0d/QA_Pet_Projects)
----
-## 📄 [Мое резюме](https://drive.google.com/file/d/1tfetP8L8CPZS9aINbNAWxSxKSfhIB6Nq/view?usp=sharing)
+## 📂 [Мое портфолио (QA Pet Projects)](https://github.com/monoz0d/QA_Pet_Projects)
+
+В моем репозитории собраны проекты, на которых я набиваю руку.
+**Что там можно посмотреть:**
+- Полный цикл документации для 6 мини-приложений (Требования, Тест-планы, Чеклисты).
+- Примеры оформления тест-кейсов и баг-репортов.
+- Мой код на Python (я сам пишу приложения, которые затем тестирую).
 
 ---
-
-## 📈 Сейчас изучаю
-
-* Автоматизацию тестирования
-* Углублённое тестирование API
-* Архитектуру микросервисов
+## 📄 [Мое резюме (Google Drive)](https://drive.google.com/file/d/1tfetP8L8CPZS9aINbNAWxSxKSfhIB6Nq/view?usp=sharing)
 
 ---
 
-## 📫 Контакты
+## 📈 План развития на ближайшее время
+
+- Добавить в портфолио проект по тестированию REST API (Postman + Swagger).
+- Написать первые автотесты на pytest и requests
+- Разобраться в базовой архитектуре микросервисов
+
+---
+
+## 📫 Связаться со мной
 
 * Email: [peacemaker4453@gmail.com](mailto:peacemaker4453@gmail.com), [peacemaker44@mail.ru](mailto:peacemaker44@mail.ru)
 * Telegram: @monoz0d
 
 ---
 
-⭐ Кстати, я открыт к новым задачам и возможностям!
+⭐ Открыт к новым задачам, тестовым заданиям и предложениям о работе!
