@@ -13,12 +13,17 @@
 
 ## 🛠️ Мой стек технологий
 
-**Тестирование API и Web:**
+  **Тестирование API и Web:**
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/SOAPUI-6DB33F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/DevTools-0E76A8?style=for-the-badge" />
+</p>
+
+  **Автоматизация тестирования:**
+<p>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </p>
 
   **Базы данных и Окружение:**
