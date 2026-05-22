@@ -1,13 +1,14 @@
 # 👋 Привет, я Никита | Junior QA Engineer
 
-Я начинающий специалист по тестированию. Умею выстраивать процесс тестирования с нуля: от анализа требований до финального отчета. Сейчас фокусируюсь на ручном тестировании и активно изучаю Python для перехода в автоматизацию.
+Я начинающий QA инженер с уклоном в ручное и API тестирование. Умею выстраивать процесс тестирования с нуля: от анализа требований до финального отчета. Сейчас развиваюсь в сторону автоматизации на Python и уже пишу первые автотесты на pytest и requests.
 
 **Что я умею делать хорошо:**
 - Анализировать функциональные и нефункциональные требования
 - Применять техники тест-дизайна (эквивалентные классы, граничные значения)
-- Писать понятную тестовую документацию (тест-планы, чек-листы, тест-кейсы)
-- Локализовать и заводить качественные баг-репорты
-- Читать и писать базовый код на Python
+- Писать понятную тестовую документацию (тест-планы, чек-листы, тест-кейсы, матрицы трассируемости)
+- Локализовать дефекты и заводить качественные баг-репорты
+- Тестировать REST API вручную в Postman
+- Писать базовые автотесты на Python (pytest, requests)
 
 ---
 
@@ -16,7 +17,6 @@
   **Тестирование API и Web:**
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOAPUI-6DB33F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/DevTools-0E76A8?style=for-the-badge" />
 </p>
@@ -24,12 +24,12 @@
   **Автоматизация тестирования:**
 <p>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/requests-2A5CAA?style=for-the-badge" />
 </p>
 
   **Базы данных и Окружение:**
 <p>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
@@ -51,9 +50,9 @@
 
 В моем репозитории собраны проекты, на которых я набиваю руку.
 **Что там можно посмотреть:**
-- Полный цикл документации для 6 мини-приложений (Требования, Тест-планы, Чеклисты).
-- Примеры оформления тест-кейсов и баг-репортов.
-- Мой код на Python (я сам пишу приложения, которые затем тестирую).
+- Полный цикл документации для 6 самописных мини-приложений на Python (требования, тест-планы, чеклисты, тест-кейсы, баг-репорты, RTM).
+- Автотесты на pytest
+- API тестирование: Postman + pytest + requests
 
 ---
 ## 📄 [Мое резюме (Google Drive)](https://drive.google.com/file/d/1tfetP8L8CPZS9aINbNAWxSxKSfhIB6Nq/view?usp=sharing)
@@ -62,9 +61,11 @@
 
 ## 📈 План развития на ближайшее время
 
-- Добавить в портфолио проект по тестированию REST API (Postman + Swagger).
-- Написать первые автотесты на pytest и requests
+- Изучить UI-автоматизацию (Playwright или Selenium)
+- Добавить Allure-отчеты
+- Углубить навыки SQL и работы с БД
 - Разобраться в базовой архитектуре микросервисов
+- Освоить Docker на базовом уровне
 
 ---
 
